@@ -18,8 +18,8 @@ Rather than focusing only on model performance, this project emphasizes understa
 
 * **Dataset:** Breast Cancer Wisconsin Diagnostic Dataset
 * **Original Dataset:** UCI Machine Learning Repository – Breast Cancer Wisconsin Diagnostic Dataset
-* **Accessed via:** https://www.kaggle.com/datasets/remyz5/curated-healthcare-and-genomics-datasets
-* **Source:** *(Add the Kaggle dataset link here)*
+* **Accessed via:** Kaggle
+* **Source:** *https://www.kaggle.com/datasets/remyz5/curated-healthcare-and-genomics-datasets*
 * **Samples:** 569
 * **Features:** 30 numerical predictor variables and 1 target variable
 * **Target Variable:** `target`
